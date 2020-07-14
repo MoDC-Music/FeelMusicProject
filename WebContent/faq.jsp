@@ -39,7 +39,7 @@
 	       Wenn du auf unserer Seite mit deinem Account angemeldet bist, findest du oben rechts über der Warteschlange ein Eingabefeld. Dort kannst du den Namen der Playlist eingeben und mit dem Button abspeichern. 
 	       Bei deiner Accountübersicht ('My Account') kannst du nun deine gespeicherten Playlists sehen und abspielen. </br>
       	 </p>
-	    </div>
+	    </div> 
     
 	    <div class="jumbotron">
           <h2>Wie kann ich mich einloggen?  </h2>	         
@@ -60,7 +60,7 @@
 	       <h2>Deine Frage wurde nicht beantwortet?   </h2>		        
 	       <p>
 	        Wenn du noch weitere Fragen hast kannst du uns gerne kontaktieren. Die Kontaktdaten findest du <a href="impressum.jsp">hier</a>.  </br>
-	        Du willst wissen, wie unsere Seite aufgebaut ist? In der <a href="FAQ?d=TechnischeDokuFeelMusic.pdf" download> Technischen Dokumentation </a> kannst du den gesamten Aufbau nachlesen. 
+	        Du willst wissen, wie unsere Seite aufgebaut ist? In der <a href="FAQ?d=TechnischeDokuFeelMusic.pdf"> Technischen Dokumentation </a> kannst du den gesamten Aufbau nachlesen. 
 	      </p>
 		</div>
         </div>
