@@ -1,4 +1,4 @@
-const APIController =(function(){
+/*const APIController =(function(){
 	const clientId = '';
 	const clientSecret = '';
 	
@@ -25,4 +25,4 @@ const APIController =(function(){
 		  return data.access_token;
 
 	}
-})();
+})();*/
